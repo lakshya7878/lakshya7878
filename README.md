@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lakshya7878@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OxMqh8uI2uB9oe6WhOh3S8J5D5f2Z-Sl/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OxMqh8uI2uB9oe6WhOh3S8J5D5f2Z-Sl/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
