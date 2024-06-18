@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/lakkshya_s" target="blank"><img src="https://img.shields.io/twitter/follow/lakkshya_s?logo=twitter&style=for-the-badge" alt="lakkshya_s" /></a> </p>
 
-- 🔭 I’m currently working on a **To-Do list**
-
-- 🌱 I’m currently learning **MongoDB, APIs, NodeJS, ExpressJS**
 
 - 📫 How to reach me **lakshya7878@gmail.com**
 
